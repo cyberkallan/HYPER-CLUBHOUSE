@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="assets/banner.svg" alt="HyperCLUB Bot — Premium Edition" />
+<img src="assets/banner.svg" alt="HyperCLUB Bot — Premium Edition" width="980" />
 
 <br/><br/>
 
 <a href="https://neocat.store/website/site/home">
-  <img src="assets/cta_download.svg" alt="Download Windows EXE — Premium Edition" />
+  <img src="assets/cta_download.svg" alt="Download Windows EXE — Premium Edition" width="360" />
   </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎁 FREE TRIAL — Try HyperCLUB Now
+## 🎁 7‑Day Premium Trial
 
 <div align="center">
 
@@ -39,19 +39,24 @@
 
 <br/>
 
-<img src="assets/key_chip.svg" alt="Trial Key" />
-<img src="assets/label_free.svg" alt="Free" />
-<img src="assets/gift_badge.svg" alt="Gift" />
+<img src="assets/key_chip.svg" alt="Trial Key" width="180" />
+<img src="assets/label_free.svg" alt="Free" width="120" />
+<img src="assets/gift_badge.svg" alt="Gift" width="96" />
 
 <p style="color:#64748b">Experience the premium automation flow — no commitment, just speed and quality.</p>
 
-<a href="https://neocat.store/website/trynow">
+<a href="https://neocat.store/website/trynow.php">
   <img src="assets/cta_trynow.svg" alt="Get Free Trial Key — Try Now"/>
 </a>
 
 </div>
 
 ---
+
+- Full access to all automation features
+- Priority validation and instant activation
+- 1 device included (upgrade anytime)
+- No credit card required
 
 ## 🚀 **FEATURES**
 
