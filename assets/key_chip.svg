@@ -1,0 +1,14 @@
+<svg width="140" height="40" viewBox="0 0 140 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="kc" x1="0" y1="0" x2="140" y2="40">
+      <stop stop-color="#0B5FFF"/>
+      <stop offset="1" stop-color="#7B61FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="140" height="40" rx="20" fill="url(#kc)"/>
+  <g fill="#FFFFFF">
+    <path d="M28 14a8 8 0 1 0 0 12h2l2 2h4l2-2h4v-4h-4l-2 2h-2l-2-2h-2a8 8 0 0 1 0-8z"/>
+    <text x="54" y="25" font-family="Inter, Segoe UI, Arial" font-weight="700" font-size="12">TRIAL KEY</text>
+  </g>
+</svg>
+

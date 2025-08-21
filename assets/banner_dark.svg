@@ -1,0 +1,32 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1024"/>
+      <stop offset="1" stop-color="#0a0f20"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F8BFF"/>
+      <stop offset="0.5" stop-color="#9A8BFF"/>
+      <stop offset="1" stop-color="#D08BFF"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="22"/>
+    </filter>
+  </defs>
+  <rect x="0" y="0" width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <ellipse cx="900" cy="-40" rx="280" ry="200" fill="url(#glow)" filter="url(#blur)"/>
+  <ellipse cx="200" cy="340" rx="280" ry="200" fill="url(#glow)" filter="url(#blur)"/>
+  <g>
+    <text x="80" y="150" fill="#F4F7FF" font-family="Segoe UI, Inter, Arial" font-weight="700" font-size="44">HyperCLUB Bot v2.0</text>
+    <text x="80" y="200" fill="#B8C5FF" font-family="Segoe UI, Inter, Arial" font-weight="500" font-size="26">Premium Edition — Seamless room automation, refined for creators</text>
+  </g>
+  <g>
+    <rect x="870" y="230" width="250" height="52" rx="12" fill="url(#g1)" stroke="#4F8BFF" stroke-opacity="0.25"/>
+    <text x="900" y="264" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial" font-weight="600" font-size="18">Download Windows EXE</text>
+  </g>
+</svg>
+

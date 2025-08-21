@@ -1,0 +1,16 @@
+<svg width="420" height="64" viewBox="0 0 420 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cta2" x1="0" y1="0" x2="420" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <filter id="sh2" x="-20%" y="-40%" width="140%" height="180%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0EA5E9" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <g filter="url(#sh2)">
+    <rect x="0" y="0" width="420" height="64" rx="14" fill="url(#cta2)"/>
+    <text x="28" y="40" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial" font-weight="700" font-size="18">Get Free Trial Key — Try Now</text>
+  </g>
+</svg>
+

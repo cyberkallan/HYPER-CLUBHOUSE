@@ -1,0 +1,5 @@
+👑 VIP {name} joined! Welcome! 👑
+💎 Special guest {name} is here! 💎
+🌟 VIP {name} arrived! 🌟
+👑 {name} (VIP) joined the room! 👑
+💎 Welcome VIP {name}! 💎

@@ -1,0 +1,6 @@
+# PASTE YOUR CLUBHOUSE TOKEN HERE
+# Replace 'YOUR_TOKEN_HERE' with your actual token
+# Save the file after pasting your token
+# Example: abc123def456ghi789jkl012mno345pqr678stu901vwx234yz
+
+YOUR_TOKEN_HERE

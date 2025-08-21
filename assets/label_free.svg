@@ -1,0 +1,11 @@
+<svg width="100" height="34" viewBox="0 0 100 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fr" x1="0" y1="0" x2="100" y2="34">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="100" height="34" rx="10" fill="url(#fr)"/>
+  <text x="50" y="22" text-anchor="middle" font-family="Inter, Segoe UI, Arial" font-size="14" font-weight="800" fill="#FFFFFF">FREE</text>
+</svg>
+

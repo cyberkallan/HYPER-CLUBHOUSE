@@ -1,0 +1,5 @@
+👋 {name} left the room.
+See you later, {name}! 👋
+Bye {name}! 👋
+Take care, {name}! ✨
+Goodbye {name}! 🚀

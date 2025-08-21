@@ -1,0 +1,35 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B5FFF"/>
+      <stop offset="0.5" stop-color="#7B61FF"/>
+      <stop offset="1" stop-color="#B75CFF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="220" rx="18" fill="#0b1330"/>
+  <g font-family="Inter, Segoe UI, Arial" fill="#E9EEFF">
+    <text x="60" y="60" font-size="20" font-weight="700">Automation Flow</text>
+    <g>
+      <rect x="60" y="90" width="240" height="60" rx="10" fill="#121b40" stroke="#2d3a78"/>
+      <text x="80" y="127" font-size="16" font-weight="600">User Joins Room</text>
+    </g>
+    <g>
+      <rect x="360" y="90" width="240" height="60" rx="10" fill="#121b40" stroke="#2d3a78"/>
+      <text x="390" y="127" font-size="16" font-weight="600">Smart Welcome Message</text>
+    </g>
+    <g>
+      <rect x="660" y="90" width="240" height="60" rx="10" fill="#121b40" stroke="#2d3a78"/>
+      <text x="700" y="127" font-size="16" font-weight="600">Speaker Invite (Priority)</text>
+    </g>
+    <g>
+      <rect x="960" y="90" width="180" height="60" rx="10" fill="#121b40" stroke="#2d3a78"/>
+      <text x="988" y="127" font-size="16" font-weight="600">VIP Handling</text>
+    </g>
+  </g>
+  <g>
+    <path d="M300 120h60" stroke="url(#a)" stroke-width="3"/>
+    <path d="M600 120h60" stroke="url(#a)" stroke-width="3"/>
+    <path d="M900 120h60" stroke="url(#a)" stroke-width="3"/>
+  </g>
+</svg>
+

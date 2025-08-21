@@ -1,0 +1,5 @@
+🎤 Welcome on stage, {name}! 👏
+🎭 {name} is now speaking! 🎉
+🎪 {name} joined the stage! ✨
+🎯 {name} is up next! 🚀
+🎨 {name} is now a speaker! 💎

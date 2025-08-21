@@ -1,0 +1,16 @@
+# HyperCLUB Bot - Python Dependencies
+# by cyberkallan
+
+# Core dependencies
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Optional dependencies for enhanced features
+# colorama>=0.4.5  # For colored terminal output (Windows)
+# psutil>=5.9.0    # For system monitoring
+# cryptography>=3.4.0  # For enhanced security features
+
+# Development dependencies (not required for production)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
