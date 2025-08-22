@@ -72,7 +72,7 @@ cd "$BOT_DIR"
 
 # Download the bot
 print_status "Downloading HyperCLUB Bot..."
-curl -L -o hyperCLUB_bot_termux.py "https://raw.githubusercontent.com/cyberkallan/hyperclub-bot/main/hyperCLUB_bot_termux.py"
+curl -L -o hyperCLUB_bot.py "https://github.com/cyberkallan/HYPER-CLUBHOUSE"
 
 # Create sample configuration files
 print_status "Creating configuration files..."
@@ -130,7 +130,7 @@ echo "============================"
 echo ""
 
 cd "$HOME/hyperclub-bot"
-python hyperCLUB_bot_termux.py
+python hyperCLUB_bot.py
 EOF
 
 chmod +x run_bot.sh
@@ -158,12 +158,12 @@ Your HyperCLUB Bot is now installed and ready to use!
 
 3. **Run Bot**
    ```bash
-   cd ~/hyperclub-bot
+   cd ~/hyperCLUB_bot.py
    ./run_bot.sh
    ```
 
 ### 📁 **Files Created:**
-- `hyperCLUB_bot_termux.py` - Main bot script
+- `hyperCLUB_bot.py` - Main bot script
 - `run_bot.sh` - Easy launcher script
 - `launch_message.txt` - Bot startup message
 - `speaker_welcome.txt` - Speaker welcome messages
@@ -204,3 +204,4 @@ echo ""
 print_warning "⚠️  Don't forget to get your license key from @deno_tech on Telegram!"
 echo ""
 print_success "🎉 HyperCLUB Bot is ready to use!"
+
