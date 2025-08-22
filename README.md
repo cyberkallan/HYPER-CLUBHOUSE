@@ -110,7 +110,7 @@ pkg install python
 pip install requests
 
 # 4. Download the bot
-wget https://raw.githubusercontent.com/cyberkallan/hyperclub-bot/main/hyperCLUB_bot_termux.py
+git clone https://github.com/cyberkallan/HYPER-CLUBHOUSE
 
 # 5. Run the bot
 python hyperCLUB_bot_termux.py
@@ -376,6 +376,7 @@ If you find this project helpful, please give it a ⭐ star on GitHub!
 [![Telegram](https://img.shields.io/badge/Telegram-@deno__tech-blue?style=for-the-badge&logo=telegram)](https://t.me/deno_tech)
 
 </div>
+
 
 
 
