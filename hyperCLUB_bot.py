@@ -13,7 +13,7 @@ def _xor_decode(s):
 def _split_decode(parts):
     return ''.join(_xor_decode(p) for p in parts)
 
-# Obfuscated sensitive data
+# Sensitive data (do not edit)
 _obf_data = {
     'url': ['aHR0cHM6Ly9uZW9jYXQuc3RvcmUvd2Vic2l0ZS9hcGkvdmFsaWRhdGVfbGljZW5zZS5waHA='],
     'api_base': ['aHR0cHM6Ly93d3cuY2x1YmhvdXNlYXBpLmNvbS9hcGkv'],
@@ -446,3 +446,4 @@ if __name__ == "__main__":
     bot.send_message(launch_msg)
     
     bot.run()
+
